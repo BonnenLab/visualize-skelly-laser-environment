@@ -1,13 +1,14 @@
 
-# Directory
+# Navigating Berkeley Walking Data
 
 The data can be accessed using Quartz or BigRed200 
-At this directory:
+At this directory `
 /N/project/berkeley_walking
+`.
+The primary files used are berkeley_json and pupilShadowMesh.mat
+Both sets of files contain data for subject 3-10, each have ~26 walks and the walktype in the file name
 
-# Navigating json and mesh files in Python
-Both sets of files contain data for subject 3-10, each have ~26 walks and the walktype in file name
-
+# Python
 ## Berkeley_json
 
 Loading in the json file should result in a dictionary that looks like this
@@ -48,7 +49,7 @@ loc = '/N/project/berkeley_walking/BerkeleyData/berkeley_pupilShadowMesh'
 ```
 
 
-## MATLAB
+# MATLAB
 
 Having problems accessing MATLAB via terminal, red desktop works: <u>https://red.uits.iu.edu</u>
 
