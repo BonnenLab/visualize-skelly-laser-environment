@@ -17,7 +17,7 @@ Loading in the json file should result in a dictionary that looks like this
 
 
 Steps_HS_TO_Stanceleg_XYZ (step number, heel strike, toe off, left or right )
-![alt text](https://github.com/BonnenLab/visualize-skelly-laser-environment/blob/96f3fb3fab1a789c94e092fa141f33aba864fcd4/Assets/Screenshot%20from%202024-05-06%2013-19-18.png)
+![alt text](https://github.com/BonnenLab/visualize-skelly-laser-environment/blob/main/Assets/hs.png)
 
 Example of how this data is used in fixation-vs-feet
 
